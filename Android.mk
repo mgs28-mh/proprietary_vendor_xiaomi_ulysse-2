@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),Mi8937)
+ifeq ($(TARGET_DEVICE),ulysse)
 
 endif

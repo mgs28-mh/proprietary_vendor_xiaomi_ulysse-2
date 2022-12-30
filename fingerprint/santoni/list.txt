@@ -1,7 +1,0 @@
-vendor/bin/gx_fpcmd
-vendor/bin/gx_fpd
-vendor/lib64/hw/fingerprint.fpc.so
-vendor/lib64/hw/fingerprint.goodix.so
-vendor/lib64/hw/gxfingerprint.default.so
-vendor/lib64/libfp_client.so
-vendor/lib64/libfpservice.so
